@@ -1,0 +1,7 @@
+{
+  "symbol": "EURUSD",
+  "timeframe": "1m",
+  "candles": [
+    {"open":1.1000,"high":1.1010,"low":1.0990,"close":1.1005}
+  ]
+}
